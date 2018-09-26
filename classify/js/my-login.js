@@ -35,3 +35,8 @@ $(function() {
 		});
 	});
 });
+
+function backtoindex()
+{
+	window.location.href = "index.html"
+}
